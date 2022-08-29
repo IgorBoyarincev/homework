@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static void print(long value) {
-        System.out.println("max sale: " + value);
+        System.out.println(value);
     }
 
 }
